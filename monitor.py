@@ -25,7 +25,7 @@ On = False
 Off = True
 
 #Internet monitor options
-TestURLList = ["http://www.google.com","http://www.yahoo.com","http://www.twitter.com"]
+TestURLList = ["http://www.google.com","http://www.edgenuity.com","http://www.twitter.com"]
 TestURLTimeout = 5
 MonitorSiteURLs = ["[UrlToTest]","[AnotherURLToTest]"]
 MonitorSiteTimeout = 6
